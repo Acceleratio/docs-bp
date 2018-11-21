@@ -5,6 +5,7 @@ private: true
 
 # [Configuration](configuration)
 Fine-tune your servers, security settings, app configuration, distributed cache, and more. 
+
 ## [App Configuration](app-configuration)
 ### [App Services Configured](app-services-configured.md)
 ### [Apps Configured](apps-configured.md)
